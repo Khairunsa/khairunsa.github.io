@@ -136,8 +136,9 @@ Developed a machine learning model to predict **loan approval status** based on 
 - Led a market research initiative to explore new business opportunities for Ruangguru.
 - Proposed an innovative **green education** concept to align with sustainability trends.
 - Conducted feasibility analysis and competitive landscape evaluation.
-  
- 🔗 **Power Point**: [Blue Ocean Strategy](https://www.canva.com/design/DAGd2mqv7_M/x8OIJIxwse_BWDM2TAIdDA/edit?utm_content=DAGd2mqv7_M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   
+
+   🔗 **Power Point**: [Blue Ocean Strategy](https://www.canva.com/design/DAGd2mqv7_M/x8OIJIxwse_BWDM2TAIdDA/edit?utm_content=DAGd2mqv7_M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   
+
 ---
 
 ## 🏆 Awards & Achievements
