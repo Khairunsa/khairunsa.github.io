@@ -104,7 +104,7 @@ This project leverages machine learning to predict penguin species based on phys
 Developed a machine learning model to predict **loan approval status** based on applicant financial history, credit score, employment status, and other key factors.
 
 📌 **Key Features**:
-   - **Predictive Accuracy**: Achieved **88% accuracy** using Random Forest and XGBoost.
+   - **Predictive Accuracy**: Achieved **88% accuracy** using Random Forest.
    - **Feature Importance Analysis**: Identified key variables affecting loan approval decisions.
    - **Risk Assessment**: Provided insights into financial risk factors influencing approval rates.
 
