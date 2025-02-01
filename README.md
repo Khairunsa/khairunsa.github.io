@@ -1,4 +1,4 @@
-![Surat Keterangan Magang](https://github.com/user-attachments/assets/c6422ac1-92a4-4fc4-a8ac-2821dbf23570)# 💼 Khairunnisa Aulia Rahma's Portfolio
+# 💼 Khairunnisa Aulia Rahma's Portfolio
 Welcome to my portfolio! Here, you'll find a collection of my professional projects, academic achievements, and organizational experiences. I am passionate about consulting, data analytics, and machine learning, and I strive to deliver impactful solutions through innovative approaches.
 
 ## 🎓 Education
@@ -34,6 +34,7 @@ PROXSIS Consulting Group (PCG) is a leading consulting firm in Indonesia, provid
 ![WhatsApp Image 2024-08-01 at 14 05 20](https://github.com/user-attachments/assets/d6dcd98d-afe9-4677-a26f-079a8baf7792)
 ![WhatsApp Image 2024-08-30 at 09 33 22](https://github.com/user-attachments/assets/766bbc00-0115-43e7-9509-d035613a905e)
 ![Uploading Surat Keterangan Magang.PNG…]()
+![Surat Keterangan Magang](https://github.com/user-attachments/assets/c6422ac1-92a4-4fc4-a8ac-2821dbf23570)
 
 
 These projects have honed my expertise in **strategic consulting, data-driven decision-making, and risk mitigation strategies**, preparing me for dynamic problem-solving in complex business environments.
