@@ -2,6 +2,7 @@
 Welcome to my portfolio! Here, you'll find a collection of my professional projects, academic achievements, and organizational experiences. I am passionate about consulting, data analytics, and machine learning, and I strive to deliver impactful solutions through innovative approaches.
 
 --
+
 ## 🎓 Education
 **Bandung Institute of Technology (ITB) (2022 - Present)**  
 **S1 Industrial Engineering** - IPK 3,48/4,00
@@ -34,6 +35,7 @@ PROXSIS Consulting Group is a leading consulting firm in Indonesia, providing ad
 
 ### Documentation
 ![WhatsApp Image 2024-08-30 at 09 33 22 (2)](https://github.com/user-attachments/assets/c3d56344-b610-4465-bc9d-b5d713f49d27) ![Surat Keterangan Magang](https://github.com/user-attachments/assets/f9560575-68b3-45f1-965f-efd64e248396)
+
 --
 
 ## 📊 Project Data Analytics and Science
