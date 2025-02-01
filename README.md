@@ -33,6 +33,7 @@ PROXSIS Consulting Group (PCG) is a leading consulting firm in Indonesia, provid
 ### Documentation
 ![WhatsApp Image 2024-08-30 at 09 33 22](https://github.com/user-attachments/assets/478d61cf-1138-468b-b35b-b16cbf467072)
 ![Surat Keterangan Magang](https://github.com/user-attachments/assets/f9560575-68b3-45f1-965f-efd64e248396)
+
 These projects have honed my expertise in **strategic consulting, data-driven decision-making, and risk mitigation strategies**, preparing me for dynamic problem-solving in complex business environments.
 
 ---
@@ -58,7 +59,7 @@ This project involves building an interactive dashboard to analyze food product 
 🔗 **View the Dashboard**: [Food Sales Dashboard](https://food-sales-dashboard.streamlit.app/)
 
 ![Project 4](https://github.com/user-attachments/assets/09ab5b93-2502-4934-ad01-65966da34ad0)
-🔗 **Dataset**: [Food Sales Dataset](https://github.com/Khairunsa/Food-Sales-Dashboard/blob/main/foodsales.xlsx)
+🔗 **Git Hub**: [Food Sales GitHub](https://github.com/Khairunsa/Food-Sales-Dashboard)
 
 📌 **Project Insights**:
    - Identified top-performing products and sales regions for targeted marketing.
@@ -88,6 +89,7 @@ This project leverages machine learning to predict penguin species based on phys
 
 ![machine learning new](https://github.com/user-attachments/assets/9d53abb6-7022-4ed4-9a38-d3c2bdd298cf)
 
+🔗 **Git Hub**: [Penguin Prediction GitHub](https://github.com/Khairunsa/dk-machinelearning)
 
 📌 **Project Insights**:
    - Discovered strong correlations between body size, weight, and species classification.
@@ -110,6 +112,10 @@ Developed a machine learning model to predict **loan approval status** based on 
    - **Data Processing**: Pandas, NumPy
    - **Machine Learning**: Scikit-learn (Random Forest, XGBoost)
    - **Visualization**: Seaborn, Matplotlib
+     
+ 🔗 **Google Colab**: [Loan Prediction](https://colab.research.google.com/drive/1CVlnp4QLhXZ9xycIpxSnmyO2q0XQ2vqh?usp=sharing#scrollTo=aoiZgxGjrmPI)    
+ 
+![image](https://github.com/user-attachments/assets/2be32d2c-d7d1-4ef1-b706-3fcc26956c38)
 
 📌 **Project Insights**:
    - Helped financial institutions assess applicant creditworthiness more effectively.
