@@ -56,6 +56,7 @@ This project involves building an interactive dashboard to analyze food product 
    - **Dashboard Development**: Streamlit
 
 🔗 **View the Dashboard**: [Food Sales Dashboard](https://food-sales-dashboard.streamlit.app/)
+
 ![Project 4](https://github.com/user-attachments/assets/09ab5b93-2502-4934-ad01-65966da34ad0)
 🔗 **Dataset**: [Food Sales Dataset](https://github.com/Khairunsa/Food-Sales-Dashboard/blob/main/foodsales.xlsx)
 
@@ -84,6 +85,9 @@ This project leverages machine learning to predict penguin species based on phys
    - **Dashboard Development**: Streamlit
 
 🔗 **View the Dashboard**: [Penguin Prediction Dashboard](https://dk-machinelearning.streamlit.app/)
+
+![machine learning new](https://github.com/user-attachments/assets/9d53abb6-7022-4ed4-9a38-d3c2bdd298cf)
+
 
 📌 **Project Insights**:
    - Discovered strong correlations between body size, weight, and species classification.
