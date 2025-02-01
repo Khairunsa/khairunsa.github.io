@@ -31,9 +31,7 @@ PROXSIS Consulting Group (PCG) is a leading consulting firm in Indonesia, provid
    - Transferred and structured 50+ Key Performance Indicators (KPIs) from client presentations into structured spreadsheets for improved tracking and decision-making.
 
 ### Documentation
-![WhatsApp Image 2024-08-30 at 09 33 22 (2)](https://github.com/user-attachments/assets/c3d56344-b610-4465-bc9d-b5d713f49d27)
-
-![Surat Keterangan Magang](https://github.com/user-attachments/assets/f9560575-68b3-45f1-965f-efd64e248396)
+![WhatsApp Image 2024-08-30 at 09 33 22 (2)](https://github.com/user-attachments/assets/c3d56344-b610-4465-bc9d-b5d713f49d27) ![Surat Keterangan Magang](https://github.com/user-attachments/assets/f9560575-68b3-45f1-965f-efd64e248396)
 
 These projects have honed my expertise in **strategic consulting, data-driven decision-making, and risk mitigation strategies**, preparing me for dynamic problem-solving in complex business environments.
 
