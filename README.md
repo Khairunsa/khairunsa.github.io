@@ -104,7 +104,7 @@ This project leverages machine learning to predict penguin species based on phys
 Developed a machine learning model to predict **loan approval status** based on applicant financial history, credit score, employment status, and other key factors.
 
 📌 **Key Features**:
-   - **Predictive Accuracy**: Achieved **92% accuracy** using Random Forest and XGBoost.
+   - **Predictive Accuracy**: Achieved **88% accuracy** using Random Forest and XGBoost.
    - **Feature Importance Analysis**: Identified key variables affecting loan approval decisions.
    - **Risk Assessment**: Provided insights into financial risk factors influencing approval rates.
 
@@ -130,19 +130,25 @@ Developed a machine learning model to predict **loan approval status** based on 
 - Utilized **mathematical modeling, transportation models, and Excel Solver** to identify cost-effective logistical strategies.
 - Provided actionable insights to enhance supply chain efficiency.
 
+ 🔗 **Power Point**: [Logistic Optimization]( https://www.canva.com/design/DAGd2uInS4A/Sif0kOlCzExIybvUQuS-Iw/edit?utm_content=DAGd2uInS4A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   
+
 ### 2️⃣ **GSIC Consulting x Ruangguru: Blue Ocean Strategy for SEED**
 - Led a market research initiative to explore new business opportunities for Ruangguru.
 - Proposed an innovative **green education** concept to align with sustainability trends.
 - Conducted feasibility analysis and competitive landscape evaluation.
-
+  
+ 🔗 **Power Point**: [Blue Ocean Strategy](https://www.canva.com/design/DAGd2mqv7_M/x8OIJIxwse_BWDM2TAIdDA/edit?utm_content=DAGd2mqv7_M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   
 ---
 
 ## 🏆 Awards & Achievements
 
 🏅 **1st Place** - Business Plan Competition, TECFEST ITB 2024  
+![Sertifikat_1ST WINNER BPC](https://github.com/user-attachments/assets/974a7f15-f121-4539-be55-68602daff0a4)
 🏅 **1st Place** - Business Plan Competition, Brawijaya Business Career 2023  
+![Sertifikat BBC](https://github.com/user-attachments/assets/3d8b2a52-7c43-450a-bedd-aa613b08506c)
 🏅 **2nd Place** - Business Plan Competition, DEF UNDIP 2024  
-🏅 Recognized for 5+ academic and non-academic achievements  
+<img width="842" alt="Khairunnisa Aulia Rahma" src="https://github.com/user-attachments/assets/714bdfb8-74a2-4179-8b93-f2327127b880" />
+---
 
 ---
 
@@ -160,7 +166,7 @@ Developed a machine learning model to predict **loan approval status** based on 
 ---
 
 ## 💡 Let’s Connect!
-📩 **Email**: your.email@example.com  
+📩 **Email**: khairunnisaauliarahma7785@gmail.com  
 🔗 **GitHub**: [Khairunsa](https://github.com/Khairunsa)  
-🔗 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+🔗 **LinkedIn**: [Khairunnisa Aulia Rahma](https://www.linkedin.com/in/khairunnisaauliarahma/)
 
