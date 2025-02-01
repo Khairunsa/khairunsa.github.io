@@ -32,15 +32,8 @@ PROXSIS Consulting Group (PCG) is a leading consulting firm in Indonesia, provid
 
 ### Documentation
 ![WhatsApp Image 2024-08-30 at 09 33 22](https://github.com/user-attachments/assets/478d61cf-1138-468b-b35b-b16cbf467072)
-
-
 ![Surat Keterangan Magang](https://github.com/user-attachments/assets/f9560575-68b3-45f1-965f-efd64e248396)
-
-
-
-
 These projects have honed my expertise in **strategic consulting, data-driven decision-making, and risk mitigation strategies**, preparing me for dynamic problem-solving in complex business environments.
-
 
 ---
 
@@ -63,7 +56,7 @@ This project involves building an interactive dashboard to analyze food product 
    - **Dashboard Development**: Streamlit
 
 🔗 **View the Dashboard**: [Food Sales Dashboard](https://food-sales-dashboard.streamlit.app/)
-
+![Project 4](https://github.com/user-attachments/assets/09ab5b93-2502-4934-ad01-65966da34ad0)
 🔗 **Dataset**: [Food Sales Dataset](https://github.com/Khairunsa/Food-Sales-Dashboard/blob/main/foodsales.xlsx)
 
 📌 **Project Insights**:
