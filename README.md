@@ -76,7 +76,7 @@ This project leverages machine learning to predict penguin species based on phys
    - **Feature Importance Analysis**: Identifies key traits influencing predictions.
    - **Species Distribution Mapping**: Shows population trends across different islands.
    - **Interactive Dashboard**: Users can input new data and receive real-time predictions.
-   - 
+     
 📌 **Technology Stack**:
    - **Data Processing**: Pandas, NumPy
    - **Machine Learning**: Scikit-learn (Random Forest, XGBoost)
