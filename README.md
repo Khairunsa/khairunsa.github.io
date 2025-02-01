@@ -156,7 +156,7 @@ Developed a machine learning model to predict **loan approval status** based on 
 <img width="842" alt="Khairunnisa Aulia Rahma" src="https://github.com/user-attachments/assets/714bdfb8-74a2-4179-8b93-f2327127b880" />
 **---**
 
-## 📌 Leadership & Organizations
+## 🎯 Leadership & Organizations
 
 ### **Vice Leader, GSIC Consulting** *(2024 - Present)*  
    - Led and designed **Blue Ocean Strategy consulting projects**.
