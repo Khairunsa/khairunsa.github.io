@@ -31,7 +31,8 @@ PROXSIS Consulting Group (PCG) is a leading consulting firm in Indonesia, provid
    - Transferred and structured 50+ Key Performance Indicators (KPIs) from client presentations into structured spreadsheets for improved tracking and decision-making.
 
 ### Documentation
-![WhatsApp Image 2024-08-30 at 09 33 22](https://github.com/user-attachments/assets/478d61cf-1138-468b-b35b-b16cbf467072)
+![WhatsApp Image 2024-08-30 at 09 33 22](https://github.com/user-attachments/assets/3e7b28c5-8fbd-474c-8a68-07514c5933d3)
+
 ![Surat Keterangan Magang](https://github.com/user-attachments/assets/f9560575-68b3-45f1-965f-efd64e248396)
 
 These projects have honed my expertise in **strategic consulting, data-driven decision-making, and risk mitigation strategies**, preparing me for dynamic problem-solving in complex business environments.
@@ -59,6 +60,7 @@ This project involves building an interactive dashboard to analyze food product 
 🔗 **View the Dashboard**: [Food Sales Dashboard](https://food-sales-dashboard.streamlit.app/)
 
 ![Project 4](https://github.com/user-attachments/assets/09ab5b93-2502-4934-ad01-65966da34ad0)
+
 🔗 **Git Hub**: [Food Sales GitHub](https://github.com/Khairunsa/Food-Sales-Dashboard)
 
 📌 **Project Insights**:
@@ -143,10 +145,15 @@ Developed a machine learning model to predict **loan approval status** based on 
 ## 🏆 Awards & Achievements
 
 🏅 **1st Place** - Business Plan Competition, TECFEST ITB 2024  
+
 ![Sertifikat_1ST WINNER BPC](https://github.com/user-attachments/assets/974a7f15-f121-4539-be55-68602daff0a4)
+
 🏅 **1st Place** - Business Plan Competition, Brawijaya Business Career 2023  
+
 ![Sertifikat BBC](https://github.com/user-attachments/assets/3d8b2a52-7c43-450a-bedd-aa613b08506c)
+
 🏅 **2nd Place** - Business Plan Competition, DEF UNDIP 2024  
+
 <img width="842" alt="Khairunnisa Aulia Rahma" src="https://github.com/user-attachments/assets/714bdfb8-74a2-4179-8b93-f2327127b880" />
 ---
 
@@ -160,7 +167,7 @@ Developed a machine learning model to predict **loan approval status** based on 
 ### **Assistant, Information Systems & Decision Laboratory (LSIK ITB)** *(2024 - 2026)*  
 - Taught students about **information systems design and decision-making models**.
 
-### **Finance, Himpunan Keluarga Mahasiswa Teknik Industri (HKMTI)**  
+### **Finance, Himpunan Keluarga Mahasiswa Teknik Industri (BSO MTI)**  
 - Managed revenue and sales operations with an **80% KPI achievement target**.
 
 ---
