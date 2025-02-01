@@ -1,14 +1,16 @@
-# 💼 Khairunnisa Aulia Rahma's Portfolio
+# Khairunnisa Aulia Rahma | Portfolio
 Welcome to my portfolio! Here, you'll find a collection of my professional projects, academic achievements, and organizational experiences. I am passionate about consulting, data analytics, and machine learning, and I strive to deliver impactful solutions through innovative approaches.
+**---**
 
 ## 🎓 Education
 **Bandung Institute of Technology (ITB) (2022 - Present)**  
 **S1 Industrial Engineering** - IPK 3,48/4,00
+**---**
 
 ## 📊 Project Consulting
 
 ### PROXSIS Consulting Group 
-PROXSIS Consulting Group (PCG) is a leading consulting firm in Indonesia, providing advisory and consultancy services as part of the PROXSIS and Co. holding company. During my tenure as an Associate Consultant, I contributed to high-impact national-scale projects for State-Owned Enterprises (SOEs), focusing on risk management, contingency planning, and performance optimization.
+PROXSIS Consulting Group is a leading consulting firm in Indonesia, providing advisory and consultancy services as part of the PROXSIS and Co. holding company. During my Internship as an Associate Consultant, I contributed to high-impact national-scale projects for State-Owned Enterprises (SOEs), focusing on risk management, contingency planning, and performance optimization.
 
 ### Key Contributions:
 ✅ **Supported 5 National-Scale Projects**:
@@ -33,9 +35,7 @@ PROXSIS Consulting Group (PCG) is a leading consulting firm in Indonesia, provid
 ### Documentation
 ![WhatsApp Image 2024-08-30 at 09 33 22 (2)](https://github.com/user-attachments/assets/c3d56344-b610-4465-bc9d-b5d713f49d27) ![Surat Keterangan Magang](https://github.com/user-attachments/assets/f9560575-68b3-45f1-965f-efd64e248396)
 
-These projects have honed my expertise in **strategic consulting, data-driven decision-making, and risk mitigation strategies**, preparing me for dynamic problem-solving in complex business environments.
-
----
+**---**
 
 ## 📊 Project Data Analytics and Science
 
@@ -66,7 +66,7 @@ This project involves building an interactive dashboard to analyze food product 
    - Analyzed seasonal fluctuations to optimize stock levels and revenue growth.
    - Provided data-driven recommendations to improve sales performance and inventory management.
 
----
+**---**
 
 ### 2️⃣ Penguin Species Prediction Data Analytics Dashboard (Machine Learning + Streamlit)
 
@@ -96,7 +96,7 @@ This project leverages machine learning to predict penguin species based on phys
    - Developed a reliable machine learning model to assist ecological research and species monitoring.
    - Created a user-friendly tool for data exploration and wildlife analysis.
 
----
+**---**
 
 ### 3️⃣ Loan Approval Prediction Model
 
@@ -121,7 +121,7 @@ Developed a machine learning model to predict **loan approval status** based on 
    - Helped financial institutions assess applicant creditworthiness more effectively.
    - Improved risk assessment models for better decision-making in loan approvals.
 
----
+**---**
 
 ## 🎓 University Projects
 
@@ -130,16 +130,16 @@ Developed a machine learning model to predict **loan approval status** based on 
 - Utilized **mathematical modeling, transportation models, and Excel Solver** to identify cost-effective logistical strategies.
 - Provided actionable insights to enhance supply chain efficiency.
 
- 🔗 **Power Point**: [Logistic Optimization]( https://www.canva.com/design/DAGd2uInS4A/Sif0kOlCzExIybvUQuS-Iw/edit?utm_content=DAGd2uInS4A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   
+🔗 **Power Point**: [Logistic Optimization]( https://www.canva.com/design/DAGd2uInS4A/Sif0kOlCzExIybvUQuS-Iw/edit?utm_content=DAGd2uInS4A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   
 
 ### 2️⃣ **GSIC Consulting x Ruangguru: Blue Ocean Strategy for SEED**
 - Led a market research initiative to explore new business opportunities for Ruangguru.
 - Proposed an innovative **green education** concept to align with sustainability trends.
 - Conducted feasibility analysis and competitive landscape evaluation.
 
-   🔗 **Power Point**: [Blue Ocean Strategy](https://www.canva.com/design/DAGd2mqv7_M/x8OIJIxwse_BWDM2TAIdDA/edit?utm_content=DAGd2mqv7_M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   
+🔗 **Power Point**: [Blue Ocean Strategy](https://www.canva.com/design/DAGd2mqv7_M/x8OIJIxwse_BWDM2TAIdDA/edit?utm_content=DAGd2mqv7_M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   
 
----
+**---**
 
 ## 🏆 Awards & Achievements
 
@@ -154,22 +154,20 @@ Developed a machine learning model to predict **loan approval status** based on 
 🏅 **2nd Place** - Business Plan Competition, DEF UNDIP 2024  
 
 <img width="842" alt="Khairunnisa Aulia Rahma" src="https://github.com/user-attachments/assets/714bdfb8-74a2-4179-8b93-f2327127b880" />
----
-
----
+**---**
 
 ## 📌 Leadership & Organizations
 
 ### **Vice Leader, GSIC Consulting** *(2024 - Present)*  
-- Led and designed **Blue Ocean Strategy consulting projects**.
+   - Led and designed **Blue Ocean Strategy consulting projects**.
 
 ### **Assistant, Information Systems & Decision Laboratory (LSIK ITB)** *(2024 - 2026)*  
-- Taught students about **information systems design and decision-making models**.
+   - Taught students about **information systems design and decision-making models**.
 
 ### **Finance, Himpunan Keluarga Mahasiswa Teknik Industri (BSO MTI)**  
-- Managed revenue and sales operations with an **80% KPI achievement target**.
+   - Managed revenue and sales operations with an **80% KPI achievement target**.
 
----
+**---**
 
 ## 💡 Let’s Connect!
 📩 **Email**: khairunnisaauliarahma7785@gmail.com  
