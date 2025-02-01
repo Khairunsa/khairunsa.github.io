@@ -38,11 +38,13 @@ PROXSIS Consulting Group is a leading consulting firm in Indonesia, providing ad
 ### 1️⃣ Food Sales Data Analytics Dashboard (Streamlit Interactive Dashboard)
 📌 **Objective**:
 This project involves building an interactive dashboard to analyze food product sales data, enabling businesses to track sales trends, monitor product performance, and understand customer preferences.
+
 📌 **Key Features**:
    - **Comprehensive KPIs**: Tracks total sales, stock availability, and revenue trends.
    - **Data Filtering**: Users can filter sales data by date range, product category, and region.
    - **Target vs. Actual Sales**: Helps businesses assess their progress toward a $50,000 revenue goal.
    - **Monthly Sales Trends**: Identifies seasonal trends for strategic inventory planning.
+     
 📌 **Technology Stack**:
    - **Data Cleaning & Preparation**: Pandas, NumPy
    - **Visualization**: Matplotlib, Seaborn
@@ -63,11 +65,13 @@ This project involves building an interactive dashboard to analyze food product 
 ### 2️⃣ Penguin Species Prediction Data Analytics Dashboard (Machine Learning + Streamlit)
 📌 **Objective**:
 This project leverages machine learning to predict penguin species based on physical characteristics and location, providing an interactive dashboard for researchers and wildlife conservationists.
+
 📌 **Key Features**:
    - **ML Model Integration**: Predicts penguin species with 95% accuracy.
    - **Feature Importance Analysis**: Identifies key traits influencing predictions.
    - **Species Distribution Mapping**: Shows population trends across different islands.
    - **Interactive Dashboard**: Users can input new data and receive real-time predictions.
+   - 
 📌 **Technology Stack**:
    - **Data Processing**: Pandas, NumPy
    - **Machine Learning**: Scikit-learn (Random Forest, XGBoost)
@@ -89,10 +93,12 @@ This project leverages machine learning to predict penguin species based on phys
 ### 3️⃣ Loan Approval Prediction Model
 📌 **Objective**:
 Developed a machine learning model to predict **loan approval status** based on applicant financial history, credit score, employment status, and other key factors.
+
 📌 **Key Features**:
    - **Predictive Accuracy**: Achieved **88% accuracy** using Random Forest.
    - **Feature Importance Analysis**: Identified key variables affecting loan approval decisions.
    - **Risk Assessment**: Provided insights into financial risk factors influencing approval rates.
+     
 📌 **Technology Stack**:
    - **Data Processing**: Pandas, NumPy
    - **Machine Learning**: Scikit-learn (Random Forest, XGBoost)
