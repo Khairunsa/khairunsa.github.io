@@ -1,9 +1,11 @@
 # Khairunnisa Aulia Rahma | Portfolio
 Welcome to my portfolio! Here, you'll find a collection of my professional projects, academic achievements, and organizational experiences. I am passionate about consulting, data analytics, and machine learning, and I strive to deliver impactful solutions through innovative approaches.
+
 --
 ## 🎓 Education
 **Bandung Institute of Technology (ITB) (2022 - Present)**  
 **S1 Industrial Engineering** - IPK 3,48/4,00
+
 --
 
 ## 📊 Project Consulting
@@ -60,6 +62,7 @@ This project involves building an interactive dashboard to analyze food product 
    - Identified top-performing products and sales regions for targeted marketing.
    - Analyzed seasonal fluctuations to optimize stock levels and revenue growth.
    - Provided data-driven recommendations to improve sales performance and inventory management.
+     
 --
 
 ### 2️⃣ Penguin Species Prediction Data Analytics Dashboard (Machine Learning + Streamlit)
@@ -88,6 +91,7 @@ This project leverages machine learning to predict penguin species based on phys
    - Discovered strong correlations between body size, weight, and species classification.
    - Developed a reliable machine learning model to assist ecological research and species monitoring.
    - Created a user-friendly tool for data exploration and wildlife analysis.
+     
 --
 
 ### 3️⃣ Loan Approval Prediction Model
@@ -111,6 +115,7 @@ Developed a machine learning model to predict **loan approval status** based on 
 📌 **Project Insights**:
    - Helped financial institutions assess applicant creditworthiness more effectively.
    - Improved risk assessment models for better decision-making in loan approvals.
+     
 --
 
 ## 🎓 University Projects
@@ -127,6 +132,7 @@ Developed a machine learning model to predict **loan approval status** based on 
 - Conducted feasibility analysis and competitive landscape evaluation.
 
 🔗 **Power Point**: [Blue Ocean Strategy](https://www.canva.com/design/DAGd2mqv7_M/x8OIJIxwse_BWDM2TAIdDA/edit?utm_content=DAGd2mqv7_M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   
+
 --
 
 ## 🏆 Awards & Achievements
@@ -141,6 +147,7 @@ Developed a machine learning model to predict **loan approval status** based on 
 🏅 **2nd Place** - Business Plan Competition, DEF UNDIP 2024  
 
 <img width="842" alt="Khairunnisa Aulia Rahma" src="https://github.com/user-attachments/assets/714bdfb8-74a2-4179-8b93-f2327127b880" />
+
 --
 
 ## 🎯 Leadership & Organizations
@@ -152,6 +159,7 @@ Developed a machine learning model to predict **loan approval status** based on 
      
 ### 3️⃣ **Finance, Himpunan Keluarga Mahasiswa Teknik Industri (BSO MTI)**  
    - Managed revenue and sales operations with an **80% KPI achievement target**.
+     
 --
 
 ## 💡 Let’s Connect!
