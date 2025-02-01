@@ -146,8 +146,10 @@ Developed a machine learning model to predict **loan approval status** based on 
 ## 🎯 Leadership & Organizations
 ### **Vice Leader, GSIC Consulting** *(2024 - Present)*  
    - Led and designed **Blue Ocean Strategy consulting projects**.
+     
 ### **Assistant, Information Systems & Decision Laboratory (LSIK ITB)** *(2024 - 2026)*  
    - Taught students about **information systems design and decision-making models**.
+     
 ### **Finance, Himpunan Keluarga Mahasiswa Teknik Industri (BSO MTI)**  
    - Managed revenue and sales operations with an **80% KPI achievement target**.
 
