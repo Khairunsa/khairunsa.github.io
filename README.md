@@ -1,15 +1,11 @@
 # Khairunnisa Aulia Rahma | Portfolio
 Welcome to my portfolio! Here, you'll find a collection of my professional projects, academic achievements, and organizational experiences. I am passionate about consulting, data analytics, and machine learning, and I strive to deliver impactful solutions through innovative approaches.
 
---
-
-## 🎓 Education
+## Education
 **Bandung Institute of Technology (ITB) (2022 - Present)**  
 **S1 Industrial Engineering** - IPK 3,48/4,00
 
---
-
-## 📊 Project Consulting
+## Project Consulting
 ### PROXSIS Consulting Group 
 PROXSIS Consulting Group is a leading consulting firm in Indonesia, providing advisory and consultancy services as part of the PROXSIS and Co. holding company. During my Internship as an Associate Consultant, I contributed to high-impact national-scale projects for State-Owned Enterprises (SOEs), focusing on risk management, contingency planning, and performance optimization.
 
@@ -38,7 +34,7 @@ PROXSIS Consulting Group is a leading consulting firm in Indonesia, providing ad
 
 --
 
-## 📊 Project Data Analytics and Science
+## Project Data Analytics and Science
 ### 1️⃣ Food Sales Data Analytics Dashboard (Streamlit Interactive Dashboard)
 📌 **Objective**:
 This project involves building an interactive dashboard to analyze food product sales data, enabling businesses to track sales trends, monitor product performance, and understand customer preferences.
@@ -137,7 +133,7 @@ Developed a machine learning model to predict **loan approval status** based on 
 
 --
 
-## 🏆 Awards & Achievements
+## Awards & Achievements
 🏅 **1st Place** - Business Plan Competition, TECFEST ITB 2024  
 
 ![Sertifikat_1ST WINNER BPC](https://github.com/user-attachments/assets/974a7f15-f121-4539-be55-68602daff0a4)
@@ -152,7 +148,7 @@ Developed a machine learning model to predict **loan approval status** based on 
 
 --
 
-## 🎯 Leadership & Organizations
+## Leadership & Organizations
 ### 1️⃣ **Vice Leader, GSIC Consulting** *(2024 - Present)*  
    - Led and designed **Blue Ocean Strategy consulting projects**.
      
@@ -164,7 +160,7 @@ Developed a machine learning model to predict **loan approval status** based on 
      
 --
 
-## 💡 Let’s Connect!
+## Let’s Connect!
 📩 **Email**: khairunnisaauliarahma7785@gmail.com  
 🔗 **GitHub**: [Khairunsa](https://github.com/Khairunsa)  
 🔗 **LinkedIn**: [Khairunnisa Aulia Rahma](https://www.linkedin.com/in/khairunnisaauliarahma/)
