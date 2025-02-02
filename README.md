@@ -3,7 +3,9 @@ Welcome to my portfolio! Here, you'll find a collection of my professional proje
 
 
 ## Education 
-Bandung Institute of Technology (ITB) (2022 - Present)                                                                                S1 Industrial Engineering - IPK 3,48/4,00
+Bandung Institute of Technology (ITB) (2022 - Present)                           
+
+S1 Industrial Engineering - IPK 3,48/4,00
 
 
 ## Project Consulting
@@ -34,7 +36,7 @@ PROXSIS Consulting Group is a leading consulting firm in Indonesia, providing ad
 ![WhatsApp Image 2024-08-30 at 09 33 22 (2)](https://github.com/user-attachments/assets/c3d56344-b610-4465-bc9d-b5d713f49d27) ![Surat Keterangan Magang](https://github.com/user-attachments/assets/f9560575-68b3-45f1-965f-efd64e248396)
 
 
-##Project Data Analytics and Science**
+## Project Data Analytics and Science
 ### 1️⃣ Food Sales Data Analytics Dashboard (Streamlit Interactive Dashboard)
 📌 **Objective**:
 This project involves building an interactive dashboard to analyze food product sales data, enabling businesses to track sales trends, monitor product performance, and understand customer preferences.
