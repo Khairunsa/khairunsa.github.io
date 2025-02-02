@@ -113,7 +113,7 @@ Developed a machine learning model to predict **loan approval status** based on 
    - Improved risk assessment models for better decision-making in loan approvals.
      
 
-##University Projects
+## University Projects
 
 ### 1️⃣ **Operational Research: FMCG Logistics Optimization in Indonesia**
 - Developed an optimization model to minimize transportation costs for an FMCG company.
