@@ -5,7 +5,7 @@ Welcome to my portfolio! Here, you'll find a collection of my professional proje
 ## Education 
 Bandung Institute of Technology (ITB) (2022 - Present)                           
 
-S1 Industrial Engineering - IPK 3,48/4,00
+S1 Industrial Engineering - IPK 3,58/4,00
 
 
 ## Project Consulting
